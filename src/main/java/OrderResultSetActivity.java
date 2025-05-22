@@ -44,6 +44,9 @@ public class OrderResultSetActivity {
         /**
          * Problem 1: Write a statement below to query the database for all characters. Make sure the results are in
          * ascending order by last name, and first name as a tie-breaker.
+         *
+         * NOTE: Do not change anything in this code. You should write your sql statement on a single line (do not use multi-line formatting) in the problem1.sql file.
+         *
          */
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
